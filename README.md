@@ -1,6 +1,6 @@
 # LauchX-Onboarding :rocket:
 
-Carpeta con los Ejercicios de la primera semana del OnBoarding
+Repositorio con los Ejercicios de la primera semana del OnBoarding
 
 ## Progress 📈
 - [x] Kata-1
