@@ -13,4 +13,4 @@ Repositorio con los Ejercicios de la primera semana del OnBoarding
 - [x] Kata-7
 - [x] Kata-8
 - [x] Kata-9
-- [ ] Kata-10
+- [x] Kata-10
